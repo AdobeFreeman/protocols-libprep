@@ -270,10 +270,12 @@ Library preparation
 #. Cycle using the following.  You may need to adjust or optimize cycle number:
 
    * 98 C for 45 seconds
-   * 6-12 cycles of:
-     * 98 C for 15 seconds
-     * 60 C for 30 seconds
-     * 72 C for 60 seconds
+   * 6-12 cycles of
+
+      * 98 C for 15 seconds
+      * 60 C for 30 seconds
+      * 72 C for 60 seconds
+
    * 72 C for 5 minutes
    * 4 C hold
 
