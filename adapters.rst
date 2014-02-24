@@ -1,9 +1,9 @@
 .. include:: global.rst
 ..  _Adapters:
 
-*********
-Adapters
-*********
+********************
+Adapter Preparation
+********************
 
 TruSeq v3-style adapters
 =========================
