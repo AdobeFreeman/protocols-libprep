@@ -5,7 +5,7 @@
 Changelog
 *********
 
-v2.0.1
+v2.1
 ------
 
 * move to read-the-docs.org
