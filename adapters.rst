@@ -5,8 +5,8 @@
 Adapters
 *********
 
-TruSeq v3-style adapters (e.g. BFIDT-xxx)
-==========================================
+TruSeq v3-style adapters
+=========================
 
 If you are using custom TruSeq-style sequencing adapters (i.e., not the standard
 Illumina TruSeq adapters and something similar to those adapters in [Fair2012]_)
