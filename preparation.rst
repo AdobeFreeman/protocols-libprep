@@ -275,7 +275,7 @@ Library preparation
         * 60 C for 30 seconds
         * 72 C for 60 seconds
     * 72 C for 5 minutes
-    * 4 C
+    * 4 C hold
 
 #. In a 1.5 mL tube, combine PCR product and 90 uL AMPure XP beads (1.8X). Mix
    by pipetting or vortexing.  You may wish to go as low as 50 uL AMPure XP
